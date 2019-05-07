@@ -1,0 +1,5 @@
+mkdir example
+cd example
+git init
+
+git status
